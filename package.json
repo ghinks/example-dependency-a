@@ -1,0 +1,24 @@
+{
+  "name": "example-dependency-id-a",
+  "version": "1.0.0",
+  "description": "For testing and examples this dependency repository has been created to give clarity to the wiby examples.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghinks/example-dependency-a.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghinks/example-dependency-a/issues"
+  },
+  "homepage": "https://github.com/ghinks/example-dependency-a#readme",
+  "devDependencies": {
+    "tap": "^15.1.2",
+    "wiby": "^0.10.0"
+  }
+}
