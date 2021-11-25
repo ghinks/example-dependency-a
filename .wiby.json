@@ -1,0 +1,8 @@
+{
+  "dependents": [
+    {
+      "repository": "https://github.com/ghinks/example-dependent-id-a.git",
+      "pullRequest": true
+    }
+  ]
+}

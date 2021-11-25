@@ -1,5 +1,5 @@
 {
-  "name": "example-dependency-id-a",
+  "name": "@gvhinks/example-dependency-id-a",
   "version": "1.0.0",
   "description": "For testing and examples this dependency repository has been created to give clarity to the wiby examples.",
   "main": "index.js",
