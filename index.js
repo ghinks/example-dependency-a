@@ -1,4 +1,4 @@
-const getAlpha = ({ text = "a" }) => {
+const getAlpha = ({ text = "b" }) => {
   console.log(text)
   return text
 }
